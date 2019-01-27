@@ -1,2 +1,3 @@
 # Beeps
-Beep scripts used for Unraid when starting or stopping the array
+
+Just a couple simple beep scripts used for Unraid when starting or stopping the array.
